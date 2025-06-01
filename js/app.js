@@ -1,12 +1,20 @@
 const texts = [
-    "I Love You",
-    "♥️ Mao Bông ♥️",
-    "Ti amo",
-    "Aishiteru",
-    "Saranghaeyo",
-    "Wǒ ài nǐ",
-    "Ya tebya lyublyu",
-    "Je t'aime",
+   "I Love You",
+    "Anh Yeu Em",
+    "Em bé của anh",
+    "Mãi bên anh nhé",
+    "1/6 chúc em bé luôn vui vẻ",
+    "Cưng nhất bà xã",
+    "Yêu em mãi",
+    "Vợ ăn được 5 bát cơm hâhhh",
+    "Vợ của anh",
+    "Cảm ơn em đã bên anh",
+    "Vợ xinh gái, chùn cutee",
+    "Thích ngắm nụ cười của vợ",
+    "Muốn làm vợ cười",
+    "Mãi mãi bên vợ",
+    "Đưa em bé đi chơi, đi ăn, đi làm nail",
+    "Em bé của anh hay cáu",
 ];
 
 let images = [
